@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "LevelA/src",
+        "LevelB/src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "LevelB/lib/hamcrest-core-1.3.jar",
+        "LevelB/lib/junit-4.13.2.jar"
+    ]
+}
