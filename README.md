@@ -1,2 +1,3 @@
-# java1
-Alle Beispiele für den Programmiereinführungskurs Java 1
+# Aufgaben zu Java 1
+
+Die Lösugen zu allen Aufgaben für den Programmiereinführungskurs Java 1
